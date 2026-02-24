@@ -3,11 +3,12 @@
     "All": false,
     "Admintab": false,
     "Items": false,
-    "Stats": false
+    "Stats": false,
+    "Tester": false
   },
   "users": {
     "411322868": { "All": true },
     "89451037": { "All": true },
-    "602769163": { "All": true }
+    "602769163": { "Tester": true }
   }
 }
