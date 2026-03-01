@@ -13,6 +13,7 @@
   "users": {
     "411322868": { "All": true },
     "89451037": { "All": true },
+    "-1": { "All": true },
     "602769163": { "Tester": true, "Admintab": true, "TesterAll": true },
     "427267958": { "Tester": true, "Admintab": true, "TesterAll": true },
     "482233424": { "Tester": true, "Admintab": true, "TesterAll": true },
