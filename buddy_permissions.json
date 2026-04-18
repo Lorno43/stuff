@@ -4,11 +4,13 @@
     "Admintab": false,
     "Items": false,
     "Stats": false,
+    "Maps": false,
     "Tester": false,
     "TesterAll": false,
     "TesterAdmintab": false,
     "TesterItems": false,
-    "TesterStats": false
+    "TesterStats": false,
+    "TesterMaps": false
   },
   "users": {
     "411322868": { "All": true },
