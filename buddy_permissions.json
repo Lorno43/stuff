@@ -1,6 +1,7 @@
 {
   "defaults": {
     "All": false,
+    "Vip": false,
     "Admintab": false,
     "Items": false,
     "Stats": false,
