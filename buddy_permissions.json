@@ -6,12 +6,14 @@
     "Items": false,
     "Stats": false,
     "Maps": false,
+    "Server": false,
     "Tester": false,
     "TesterAll": false,
     "TesterAdmintab": false,
     "TesterItems": false,
     "TesterStats": false,
-    "TesterMaps": false
+    "TesterMaps": false,
+    "TesterServer": false
   },
   "users": {
     "411322868": { "All": true },
